@@ -36,4 +36,4 @@ int Card::getValue()
     }
     
     return value;
-}t
+}
